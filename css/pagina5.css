@@ -1,13 +1,18 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
 }
-table{
-background-color: #393F44;
+
+table {
+    background-color: #393F44;
 }
-td{
-color: white;
+
+table td {
+    color: white;
+    padding: 5px;
+    vertical-align: top;
 }
-p, a{
+
+p,
+a {
     color: rgb(173, 171, 171);
 }
- 
